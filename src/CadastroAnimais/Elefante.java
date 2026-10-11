@@ -1,11 +1,10 @@
-package CadastroAnimais;  
-public class Elefante extends Animal { 
+package CadastroAnimais;
 
-   
+public class Elefante extends Animal {
+
     public Elefante(String nome) {
-        super(nome);  
+        super(nome);
     }
-
 
     @Override
     public void emitirSom() {
