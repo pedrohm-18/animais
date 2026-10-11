@@ -1,4 +1,4 @@
-package CadastroAnimais;
+package zoologico;
 
 /**
  * Classe base abstrata: todo animal tem um nome e sabe emitir um som,

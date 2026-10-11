@@ -1,6 +1,6 @@
-package CadastroAnimais;
+package zoologico;
 
-public class Main {
+public class Zoologico {
 
     public static void main(String[] args) {
         // Polimorfismo: todos são tratados como Animal,

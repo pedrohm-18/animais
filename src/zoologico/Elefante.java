@@ -1,4 +1,4 @@
-package CadastroAnimais;
+package zoologico;
 
 public class Elefante extends Animal {
 
